@@ -15,4 +15,5 @@ setup(
         'sit_youtrack.tests',
         'sit_youtrack.tracLib', 'sit_youtrack.youtrack', 'sit_youtrack.zendesk'
     ],
+    namespace_packages = ['sit_youtrack']
 )

@@ -11,6 +11,6 @@ setup(
         'python.bugzilla', 'python.csvClient',
         'python.fbugz', 'python.googleCode', 'python.httplib2', 'python.jira', 'python.mantis',
         'python.out', 'python.pyactiveresource', 'python.redmine', 'python.sync', 'python.tests',
-        'python.trackLib', 'python.youtrack', 'python.zendesk'
+        'python.tracLib', 'python.youtrack', 'python.zendesk'
     ],
 )

@@ -7,8 +7,10 @@ setup(
     version='1.0.0',
     description='Python client for JetBrains\' YouTrack REST API',
     packages=[
-        'python-youtrack-api', 'python-youtrack-api.python', 'python-youtrack-api.python.agilezen',
-        'python-youtrack-api.python.bugzilla', 'python-youtrack-api.python.csvClient',
-        'python-youtrack-api.python.fbugz', 'python-youtrack-api.python.googleCode'
+        'python', 'python.agilezen',
+        'python.bugzilla', 'python.csvClient',
+        'python.fbugz', 'python.googleCode', 'python.httplib2', 'python.jira', 'python.mantis',
+        'python.out', 'python.pyactiveresource', 'python.redmine', 'python.sync', 'python.tests',
+        'python.trackLib', 'python.youtrack', 'python.zendesk'
     ],
 )
